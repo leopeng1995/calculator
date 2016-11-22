@@ -1,4 +1,4 @@
-### High-precision Calculator
+# High-precision Calculator
 
-[x] BigInt
-[ ] BigFloat
+- [x] BigInt
+- [ ] BigFloat
